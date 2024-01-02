@@ -22,7 +22,7 @@ import urllib
 
 API_ID = 16437082
 API_HASH = "b93cf12736d8661004a2043f4b90a421"
-BOT_TOKEN = "5599293376:AAE0Eyqej5vznDjgbyNyb_Bqd9sk2W1GXKw"
+BOT_TOKEN = "5416890233:AAHTaFXYaqlEnDM_eNLEKSMAWiL_0ver6xw"
 
 bot = Client("anon",api_id=API_ID,api_hash=API_HASH,bot_token=BOT_TOKEN)
 
