@@ -1,0 +1,14 @@
+aiohttp
+aiofiles
+aiohttp_socks
+tgcrypto
+pyrogram
+multivolumefile
+#py7zr
+yarl
+bs4
+requests
+cryptg
+ujson
+Flask==2.2.2
+gunicorn==20.1.0
